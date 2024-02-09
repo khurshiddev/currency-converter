@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="amount">Amount\n\n</string>
+    <string name="convert_rate">Convert Rate</string>
+
+    <string-array name="symbols">
+        <item>UZS(Uzbekistan Som)</item>
+        <item>EUR(Euro)</item>
+        <item>USD(United States Dollar)</item>
+    </string-array>
+</resources>
