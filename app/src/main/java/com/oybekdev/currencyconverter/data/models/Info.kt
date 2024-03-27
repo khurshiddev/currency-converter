@@ -4,6 +4,8 @@ package com.oybekdev.currencyconverter.data.models
 import com.google.gson.annotations.SerializedName
 
 data class Info(
-    val quote: Double,
-    val timestamp: Int
+    @SerializedName("quote")
+    val quote: Double = 0.0,
+    @SerializedName("timestamp")
+    val timestamp: Int = 0
 )
