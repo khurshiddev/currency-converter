@@ -34,3 +34,7 @@ Currency converter app helps you to convert one currency to another currency
      |
      ├── MainActivity
      └── MyApp
+````
+
+## 🤝 Support
+Give a ⭐️ if you like this project!
