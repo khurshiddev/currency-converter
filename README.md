@@ -27,6 +27,10 @@ Currency converter app helps you to convert one currency to another currency
 |    |    ├── MainRepository
 |    |    ├── MainRepositoryImpl
 |    |    └── MainViewModel
-└──  └── utils
-          ├── MainActivity
-          └── MyApp
+|    |
+└──  ├── utils
+     |    ├── ConvertEvent
+     |    └── Resource
+     |
+     ├── MainActivity
+     └── MyApp
